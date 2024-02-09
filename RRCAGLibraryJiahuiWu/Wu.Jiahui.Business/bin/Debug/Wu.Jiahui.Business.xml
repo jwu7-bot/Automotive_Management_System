@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Wu.Jiahui.Business</name>
+    </assembly>
+    <members>
+        <member name="T:Wu.Jiahui.Business.Accessories">
+            <summary>
+            Represents the accessories of the car.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.Accessories.StereoSystem">
+            <summary>
+             The stereo system accessory.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.Accessories.LeatherInterior">
+            <summary>
+            The leather interior accessory.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.Accessories.StereoAndLeather">
+            <summary>
+            The stereo system and leather interior accessories.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.Accessories.ComputerNavigation">
+            <summary>
+            The computer navigation accessory.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.Accessories.StereoAndNavigation">
+            <summary>
+            The stereo system and computer navigation accessories.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.Accessories.LeatherAndNavigation">
+            <summary>
+            The leather interior and computer navigation accessories.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.Accessories.All">
+            <summary>
+            All the accessories.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.Accessories.None">
+            <summary>
+            None of the accessories.
+            </summary>
+        </member>
+        <member name="T:Wu.Jiahui.Business.CarWashInvoice">
+            <summary>
+            This class contains functionality that supports the business process of 
+            creating an invoice for the car wash department.
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.CarWashInvoice.PackageCost">
+            <summary>
+            Gets and sets the amount charged for the chosen package.
+            </summary>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the property is set to less than 0.
+            </exception>
+        </member>
+        <member name="P:Wu.Jiahui.Business.CarWashInvoice.FragranceCost">
+            <summary>
+            Gets and sets the amount charged for the chosen fragrance.
+            </summary>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the property is set to less than 0.
+            </exception>
+        </member>
+        <member name="P:Wu.Jiahui.Business.CarWashInvoice.ProvincialSalesTaxCharged">
+            <summary>
+            Gets the amount of provincial sales tax charged to the customer. 
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.CarWashInvoice.GoodsAndServicesTaxCharged">
+            <summary>
+            Gets the amount of goods and services tax charged to the customer (rounded to two decimal places).
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.CarWashInvoice.SubTotal">
+            <summary>
+            Gets the subtotal of the Invoice. 
+            </summary>
+        </member>
+        <member name="M:Wu.Jiahui.Business.CarWashInvoice.#ctor(System.Decimal,System.Decimal,System.Decimal,System.Decimal)">
+            <summary>
+            Initializes an instance of CarWashInvoice with a provincial and goods, services tax rate, package cost and fragrance cost.
+            </summary>
+            <param name="provincialSalesTaxRate">The rate of provincial tax charged to a customer.</param>
+            <param name="goodsAndServicesTaxRate">The rate of goods and services tax charged to a customer.</param>
+            <param name="packageCost">The cost of the chosen package.</param>
+            <param name="fragranceCost">The cost of the chosen fragrance.</param>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the provincial sales tax rate is less than 0, or
+            when the provincial sales tax rate is greater than 1, or
+            when the goods and services tax rate is less than 0, or
+            when the goods and services tax rate is greater than 1, or,
+            when the package cost is less than 0, or
+            when the fragrance cost is less than 0.
+            </exception>
+        </member>
+        <member name="M:Wu.Jiahui.Business.CarWashInvoice.#ctor(System.Decimal,System.Decimal)">
+            <summary>
+            Initializes an instance of CarWashInvoice with a provincial and goods and services tax rates.
+            </summary>
+            <param name="provincialSalesTaxRate">The rate of provincial tax charged to a customer.</param>
+            <param name="goodsAndServicesTaxRate">The rate of goods and services tax charged to a customer.</param>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the provincial sales tax rate is less than 0, or
+            when the provincial sales tax rate is greater than 1, or
+            when the goods and services tax rate is less than 0, or
+            when the goods and services tax rate is greater than 1.
+            </exception>
+        </member>
+        <member name="T:Wu.Jiahui.Business.ExteriorFinish">
+            <summary>
+            Represents the exterior finish of the car.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.ExteriorFinish.Standard">
+            <summary>
+            The standard exterior finish.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.ExteriorFinish.Pearlized">
+            <summary>
+            The pearlized exterior finish.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.ExteriorFinish.Custom">
+            <summary>
+            The custom exterior finish.
+            </summary>
+        </member>
+        <member name="F:Wu.Jiahui.Business.ExteriorFinish.None">
+            <summary>
+            None of the exterior finishes.
+            </summary>
+        </member>
+        <member name="T:Wu.Jiahui.Business.Financial">
+            <summary>
+            This static class contains functionality that includes financial functions.
+            </summary>
+        </member>
+        <member name="M:Wu.Jiahui.Business.Financial.GetPayment(System.Decimal,System.Int32,System.Decimal)">
+            <summary>
+            Returns the payment amount for an annuity based on periodic, fixed payments and a fixed interest rate.
+            </summary>
+            <param name="rate">The interest rate per period.</param>
+            <param name="numberOfPaymentPeriods">The total number of payment periods in the annuity.</param>
+            <param name="presentValue">The present value (or lump sum) that a series of payments to be paid in the future is worth now</param>
+            <returns>The payment amount for an annuity.</returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the rate is less than 0, or
+            when the rate is greater than 1, or
+            when the number of payments is less than or equal to zero, or
+            when the present value is less than or equal to zero.
+            </exception>
+        </member>
+        <member name="T:Wu.Jiahui.Business.Invoice">
+            <summary>
+            This abstract class contains functionality that supports the business process of creating an invoice.
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.Invoice.ProvincialSalesTaxRate">
+            <summary>
+            Gets and sets the provincial sales tax rate.
+            </summary>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the property is set to less than 0, or
+            when the property is set to greater than 1.
+            </exception>
+        </member>
+        <member name="P:Wu.Jiahui.Business.Invoice.GoodsAndServicesTaxRate">
+            <summary>
+            Gets and sets the goods and services tax rate.
+            </summary>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the property is set to less than 0, or
+            when the property is set to greater than 1.
+            </exception>
+        </member>
+        <member name="P:Wu.Jiahui.Business.Invoice.ProvincialSalesTaxCharged">
+            <summary>
+            Gets the amount of provincial sales tax charged to the customer (rounded to two decimal places).
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.Invoice.GoodsAndServicesTaxCharged">
+            <summary>
+            Gets the amount of goods and services tax charged to the customer (rounded to two decimal places).
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.Invoice.SubTotal">
+            <summary>
+            Gets the subtotal of the Invoice.
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.Invoice.Total">
+            <summary>
+            Gets the total of the Invoice.
+            </summary>
+        </member>
+        <member name="M:Wu.Jiahui.Business.Invoice.#ctor(System.Decimal,System.Decimal)">
+            <summary>
+            Initializes an instance of Invoice with a provincial and goods and services tax rates.
+            </summary>
+            <param name="provincialSalesTaxRate">The rate of provincial tax charged to a customer.</param>
+            <param name="goodsAndServicesTaxRate">The rate of goods and services tax charged to a customer.</param>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the provincial sales tax rate is less than 0, or
+            when the provincial sales tax rate is greater than 1, or
+            when the goods and services tax rate is less than 0, or
+            when the goods and services tax rate is greater than 1.
+            </exception>
+        </member>
+        <member name="T:Wu.Jiahui.Business.SalesQuote">
+            <summary>
+            Contains functionality that supports the business process 
+            of determining a quote for the sale of a vehicle.
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.SalesQuote.VehicleSalePrice">
+            <summary>
+            Gets and sets the sale price of the vehicle.
+            </summary>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the property is set to less than or equal to 0.
+            </exception>
+        </member>
+        <member name="P:Wu.Jiahui.Business.SalesQuote.TradeInAmount">
+            <summary>
+            Gets and sets the trade in amount.
+            </summary>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the property is set to less than 0.
+            </exception>
+        </member>
+        <member name="P:Wu.Jiahui.Business.SalesQuote.AccessoriesChosen">
+            <summary>
+            Gets and sets the accessories that were chosen.
+            </summary>
+            <exception cref="T:System.ComponentModel.InvalidEnumArgumentException">
+            Thrown when the property is set to an invalid value.
+            </exception>
+        </member>
+        <member name="P:Wu.Jiahui.Business.SalesQuote.ExteriorFinishChosen">
+            <summary>
+            Gets and sets the exterior finish that was chosen.
+            </summary>
+            <exception cref="T:System.ComponentModel.InvalidEnumArgumentException">
+            Thrown when the property is set to an invalid value.
+            </exception>
+        </member>
+        <member name="P:Wu.Jiahui.Business.SalesQuote.AccessoryCost">
+            <summary>
+            Gets the cost of accessories chosen.
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.SalesQuote.FinishCost">
+            <summary>
+            Gets the cost of the exterior finish chosen.
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.SalesQuote.TotalOptions">
+            <summary>
+            Gets the sum of the cost of the chosen accessories and exterior finish (rounded to two decimal places).
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.SalesQuote.SubTotal">
+            <summary>
+            Gets the sum of the vehicle’s sale price and the Accessory and Finish Cost (rounded to two decimal places).
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.SalesQuote.SalesTax">
+            <summary>
+            Gets the amount of tax to charge based on the subtotal (rounded to two decimal places).
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.SalesQuote.Total">
+            <summary>
+            Gets the sum of the subtotal and taxes.
+            </summary>
+        </member>
+        <member name="P:Wu.Jiahui.Business.SalesQuote.AmountDue">
+            <summary>
+            Gets the result of subtracting the trade-in amount from the total (rounded to two decimal places).
+            </summary>
+        </member>
+        <member name="M:Wu.Jiahui.Business.SalesQuote.#ctor(System.Decimal,System.Decimal,System.Decimal,Wu.Jiahui.Business.Accessories,Wu.Jiahui.Business.ExteriorFinish)">
+            <summary>
+            Initializes an instance of SalesQuote with a vehicle price, trade-in value, sales tax rate, accessories chosen and exterior finish chosen.
+            </summary>
+            <param name="vehicleSalePrice">The selling price of the vehicle being sold.</param>
+            <param name="tradeInAmount">The amount offered to the customer for the trade in of their vehicle.</param>
+            <param name="salesTaxRate">The tax rate applied to the sale of a vehicle.</param>
+            <param name="accessoriesChosen">The value of the chosen accessories.</param>
+            <param name="exteriorFinishChosen">The value of the chosen exterior finish.</param>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the vehicle sale price is less than or equal to 0, or
+            when the trade in amount is less than 0, or
+            when the sales tax rate is less than 0, or
+            when the sales tax rate is greater than 1.
+            </exception>
+            <exception cref="T:System.ComponentModel.InvalidEnumArgumentException">
+            Thrown when the accessories chosen is an invalid argument, or
+            when the exterior finish chosen is an invalid argument.
+            </exception>
+        </member>
+        <member name="M:Wu.Jiahui.Business.SalesQuote.#ctor(System.Decimal,System.Decimal,System.Decimal)">
+            <summary>
+            Initializes an instance of SalesQuote with a vehicle price, trade-in amount, sales tax rate, no accessories chosen and no exterior finish chosen.
+            </summary>
+            <param name="vehicleSalePrice">The selling price of the vehicle being sold.</param>
+            <param name="tradeInAmount">The amount offered to the customer for the trade in of their vehicle.</param>
+            <param name="salesTaxRate">The tax rate applied to the sale of a vehicle.</param>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+            Thrown when the vehicle sale price is less than or equal to 0, or
+            when the trade in amount is less than 0, or
+            when the sales tax rate is less than 0, or
+            when the sales tax rate is greater than 1.
+            </exception>
+        </member>
+    </members>
+</doc>

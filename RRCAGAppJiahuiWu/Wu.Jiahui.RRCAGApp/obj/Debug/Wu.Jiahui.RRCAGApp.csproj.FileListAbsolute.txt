@@ -1,0 +1,54 @@
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.exe.config
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.exe
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.pdb
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.AssemblyReference.cache
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.Properties.Resources.resources
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.GenerateResource.cache
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.CoreCompileInputs.cache
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.CopyComplete
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.exe
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.pdb
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.exe.config
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.exe
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.pdb
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.AssemblyReference.cache
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.MainForm.resources
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.Properties.Resources.resources
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.GenerateResource.cache
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.CoreCompileInputs.cache
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.CopyComplete
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.exe
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.pdb
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.exe.config
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.exe
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.pdb
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.AssemblyReference.cache
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.MainForm.resources
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.Properties.Resources.resources
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.GenerateResource.cache
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.CoreCompileInputs.cache
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.CopyComplete
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.exe
+C:\Users\JiaHui Wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.pdb
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.AboutForm.resources
+C:\Users\jerry_wu\OneDrive - Red River College Polytech\Documents\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.SalesQuoteForm.resources
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.AboutForm.resources
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.MainForm.resources
+C:\Users\jerry_wu\source\repos\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.SalesQuoteForm.resources
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.exe.config
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.exe
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\bin\Debug\Wu.Jiahui.RRCAGApp.pdb
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.AssemblyReference.cache
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.AboutForm.resources
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.MainForm.resources
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.Properties.Resources.resources
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.SalesQuoteForm.resources
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.GenerateResource.cache
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.CoreCompileInputs.cache
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.csproj.CopyComplete
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.exe
+C:\Users\jerry_wu\Red River College\Intersession\Programming 2\Assignments\Assignment7\RRCAGAppJiahuiWu\Wu.Jiahui.RRCAGApp\obj\Debug\Wu.Jiahui.RRCAGApp.pdb

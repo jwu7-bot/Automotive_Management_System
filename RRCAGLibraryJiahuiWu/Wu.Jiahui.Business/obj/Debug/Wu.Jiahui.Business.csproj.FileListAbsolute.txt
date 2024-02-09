@@ -1,0 +1,14 @@
+C:\Users\JiaHui Wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\bin\Debug\Wu.Jiahui.Business.dll
+C:\Users\JiaHui Wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\bin\Debug\Wu.Jiahui.Business.pdb
+C:\Users\JiaHui Wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\obj\Debug\Wu.Jiahui.Business.csproj.AssemblyReference.cache
+C:\Users\JiaHui Wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\obj\Debug\Wu.Jiahui.Business.csproj.CoreCompileInputs.cache
+C:\Users\JiaHui Wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\obj\Debug\Wu.Jiahui.Business.dll
+C:\Users\JiaHui Wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\obj\Debug\Wu.Jiahui.Business.pdb
+C:\Users\JiaHui Wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\bin\Debug\Wu.Jiahui.Business.xml
+C:\Users\jerry_wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\bin\Debug\Wu.Jiahui.Business.xml
+C:\Users\jerry_wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\bin\Debug\Wu.Jiahui.Business.dll
+C:\Users\jerry_wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\bin\Debug\Wu.Jiahui.Business.pdb
+C:\Users\jerry_wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\obj\Debug\Wu.Jiahui.Business.csproj.AssemblyReference.cache
+C:\Users\jerry_wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\obj\Debug\Wu.Jiahui.Business.csproj.CoreCompileInputs.cache
+C:\Users\jerry_wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\obj\Debug\Wu.Jiahui.Business.dll
+C:\Users\jerry_wu\source\repos\RRCAGLibraryJiahuiWu\Wu.Jiahui.Business\obj\Debug\Wu.Jiahui.Business.pdb

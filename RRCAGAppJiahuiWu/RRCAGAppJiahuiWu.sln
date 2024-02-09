@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wu.Jiahui.RRCAGApp", "Wu.Jiahui.RRCAGApp\Wu.Jiahui.RRCAGApp.csproj", "{3C2EAFC7-5B98-4869-9E0C-DC855C294740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2EAFC7-5B98-4869-9E0C-DC855C294740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2EAFC7-5B98-4869-9E0C-DC855C294740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2EAFC7-5B98-4869-9E0C-DC855C294740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2EAFC7-5B98-4869-9E0C-DC855C294740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E2B2F5-0C97-492C-BC36-DAB7E0C6B2DC}
+	EndGlobalSection
+EndGlobal
